@@ -50,3 +50,18 @@ capitals_dict = {
 'Wisconsin' : 'Madison',
 'Wyoming' : 'Cheyenne',
 }
+
+import random
+
+while True :
+    state = random.choice(list(capitals_dict.keys()))
+    capital = capitals_dict[state]
+    capital_guess = input('what is the capital of ' + state + '?')
+    if capital_guess == 'Exit':
+        print('goodbye')
+        break
+        
+        if capitual_guess ==capital:
+            print('Correct! Good job!')
+        else:
+            print('Incorrect. the capital of ' + state + 'is' +capital)
