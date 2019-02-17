@@ -1,6 +1,7 @@
 # Introduction to Data Science - ITSON 2019
 
 **Instructor:** Juan Badouin
+
 **Date:** February 16th, 2019
 
 ### Tutorial Content
@@ -18,6 +19,6 @@
 4. [interactive](./interactive.ipynb) - interactive program that introduces the gamification of data science, it's the basis for deployment.
 
 **Data sets** 
-1. [salaries.csv](./data/salaries.csv)
-2. [vacaciones.csv](./data/vacaciones.csv)
-3. [halloween.csv](./data/halloween.csv)
+1. [salaries.csv](./data/salaries.csv) - Boston University's professors salaries
+2. [vacaciones.csv](./data/vacaciones.csv) - Google trends data for "vacaciones" and "playa"
+3. [halloween.csv](./data/halloween.csv) - Google trends data for "halloween" and "customes"
